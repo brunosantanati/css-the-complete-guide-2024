@@ -1,3 +1,11 @@
+/* * {
+    font-family: sans-serif;
+} */
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
 #product-overview {
     background: #ff1b68;
 }
@@ -11,6 +19,6 @@ h1 {
     font-family: "Anton", sans-serif;
 }
 
-h1 {
+/* h1 {
     font-family: sans-serif;
-}
+} */
